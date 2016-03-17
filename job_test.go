@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kr/beanstalk"
+	"github.com/escribano/beanstalk"
 )
 
 // Job is defined and can be instanciated

@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/kr/beanstalk"
+	"github.com/escribano/beanstalk"
 )
 
 // ErrQuitting is returned by Client when it is quitting

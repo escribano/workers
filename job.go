@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/kr/beanstalk"
+	"github.com/escribano/beanstalk"
 )
 
 // Job represents a job received by a worker.

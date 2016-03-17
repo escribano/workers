@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kr/beanstalk"
+	"github.com/escribano/beanstalk"
 )
 
 func Example() {
